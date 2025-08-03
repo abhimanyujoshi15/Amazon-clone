@@ -1,2 +1,2 @@
 # Amazon-clone
-A simple Amazon homepage clone built using HTML and CSS.
+A simple and responsive Amazon homepage clone built using HTML and CSS.
